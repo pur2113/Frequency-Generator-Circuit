@@ -29,6 +29,8 @@ In order to reduce the design effort as well as to get the simplest design possi
 14. DACO830 (DAC)
 15. 3X3 KEYPAD
 
+For Circuit Diagram, Flowchart and detailed methodology, refer to the report.
+
 
 
 
